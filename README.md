@@ -88,9 +88,7 @@ https://github.com/user-attachments/assets/d7687c15-03cf-4a49-8b63-6f0d7303ace3
 
 **Contributions** are welcome! Feel free to submit issues or pull requests.
 
-- 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
-- 📧 Email:shubhamkashyap9501@gmail.com
-- Linkedin :[Linkedin_link](https://www.linkedin.com/in/shubham9797/)
+
 
 
 
